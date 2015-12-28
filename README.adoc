@@ -1,3 +1,9 @@
+이 프로젝트는 크게 두 가지 사항을 목표로 삼고 있습니다.
+
+== Getting Real 한국어판 다듬기
+
 37signals에서 펴낸 ⟪Getting Real⟫의 한국어 번역본을 수정하고 있습니다.
 
-또한, 원본 작업물을 asciidoc으로 작성하여 출력물의 다중화(epub, pdf)를 연습해 볼 생각입니다.
+== Asciidoc 연습
+
+원본 작업물을 asciidoc으로 작성하여 출력물의 다중화(epub, pdf)를 연습해 볼 생각입니다.
